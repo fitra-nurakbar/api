@@ -1,0 +1,38 @@
+[
+  [
+    {
+      "nama": "Fitra Nurakbar",
+      "tempat_lahir": "Ciamis",
+      "tanggal_lahir": 6,
+      "bulan_lahir": "December",
+      "tahun_lahir": 2022,
+      "status": false
+    },
+    {
+      "nama": "nama kedua",
+      "tempat_lahir": "Ciamis",
+      "tanggal_lahir": 6,
+      "bulan_lahir": "December",
+      "tahun_lahir": 2022,
+      "status": false
+    }
+  ],
+  [
+    {
+      "nama": "nama ketiga",
+      "tempat_lahir": "Ciamis",
+      "tanggal_lahir": 6,
+      "bulan_lahir": "December",
+      "tahun_lahir": 2022,
+      "status": false
+    },
+    {
+      "nama": "nama keempat",
+      "tempat_lahir": "Ciamis",
+      "tanggal_lahir": 6,
+      "bulan_lahir": "December",
+      "tahun_lahir": 2022,
+      "status": false
+    }
+  ]
+]
